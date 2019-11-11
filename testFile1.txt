@@ -8,3 +8,7 @@ Edit - 2
 Branch B
 
 Edit - 1
+
+Branch B Merged
+
+Edit - 1

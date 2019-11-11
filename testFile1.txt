@@ -4,3 +4,7 @@ Will use this to test Branching.
 Edit - 1
 
 Edit - 2
+
+Branch B
+
+Edit - 1

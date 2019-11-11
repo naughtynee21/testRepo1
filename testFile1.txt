@@ -19,6 +19,4 @@ Branch D
 Edit-1
 
 Edit - 2 after Merge
-
-Branch E
-Edit1
+BranchE - Edit-1

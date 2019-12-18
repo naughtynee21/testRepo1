@@ -8,3 +8,5 @@ Edit - 2
 Branch B
 
 Edit - 1
+
+Adding new stuff to test Merge and Rebase. First, merge.

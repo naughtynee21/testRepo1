@@ -9,15 +9,4 @@ Branch B
 
 Edit - 1
 
-Branch C
-
-Branch B Merged
-
-Edit - 1
-
-Branch D
-Edit-1
-
-Edit - 2 after Merge
-
-Edit after Branch D Merge.
+Adding new stuff to test Merge and Rebase. First, merge.

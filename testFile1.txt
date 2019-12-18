@@ -10,3 +10,5 @@ Branch B
 Edit - 1
 
 Adding new stuff to test Merge and Rebase. First, merge.
+
+Merge done. Now let's try Rebase. Let's see how the Network graph looks like. This is the first adding to the code, to create a new commit to Branch B. I'll create another commit after this, so that we can see how to commits are updated to master branch in rebase.
